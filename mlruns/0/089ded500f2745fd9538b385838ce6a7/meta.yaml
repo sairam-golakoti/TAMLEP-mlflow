@@ -1,0 +1,15 @@
+artifact_uri: /home/sairam/TAMLEP-mlflow/mlruns/0/089ded500f2745fd9538b385838ce6a7/artifacts
+end_time: 1688716348717
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 089ded500f2745fd9538b385838ce6a7
+run_name: smiling-sloth-483
+run_uuid: 089ded500f2745fd9538b385838ce6a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688715930275
+status: 3
+tags: []
+user_id: sairam

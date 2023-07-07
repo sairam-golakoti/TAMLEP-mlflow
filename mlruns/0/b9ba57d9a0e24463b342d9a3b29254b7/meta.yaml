@@ -1,0 +1,15 @@
+artifact_uri: /home/sairam/TAMLEP-mlflow/mlruns/0/b9ba57d9a0e24463b342d9a3b29254b7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9ba57d9a0e24463b342d9a3b29254b7
+run_name: righteous-bird-727
+run_uuid: b9ba57d9a0e24463b342d9a3b29254b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688714673459
+status: 1
+tags: []
+user_id: sairam

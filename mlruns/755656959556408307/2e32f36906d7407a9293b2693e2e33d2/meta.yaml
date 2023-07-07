@@ -1,0 +1,15 @@
+artifact_uri: /home/sairam/TAMLEP-mlflow/mlruns/755656959556408307/2e32f36906d7407a9293b2693e2e33d2/artifacts
+end_time: 1688713433732
+entry_point_name: ''
+experiment_id: '755656959556408307'
+lifecycle_stage: active
+run_id: 2e32f36906d7407a9293b2693e2e33d2
+run_name: persistent-rook-801
+run_uuid: 2e32f36906d7407a9293b2693e2e33d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688713429318
+status: 3
+tags: []
+user_id: sairam

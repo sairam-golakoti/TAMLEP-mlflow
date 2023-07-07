@@ -1,0 +1,15 @@
+artifact_uri: /home/sairam/TAMLEP-mlflow/mlruns/755656959556408307/3612d2247cbb46048e35c5728db8a92f/artifacts
+end_time: 1688713560252
+entry_point_name: ''
+experiment_id: '755656959556408307'
+lifecycle_stage: active
+run_id: 3612d2247cbb46048e35c5728db8a92f
+run_name: clumsy-asp-908
+run_uuid: 3612d2247cbb46048e35c5728db8a92f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688713557615
+status: 3
+tags: []
+user_id: sairam

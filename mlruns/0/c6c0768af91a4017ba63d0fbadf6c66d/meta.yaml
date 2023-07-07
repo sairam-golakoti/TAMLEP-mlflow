@@ -1,0 +1,15 @@
+artifact_uri: /home/sairam/TAMLEP-mlflow/mlruns/0/c6c0768af91a4017ba63d0fbadf6c66d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6c0768af91a4017ba63d0fbadf6c66d
+run_name: luxuriant-mouse-639
+run_uuid: c6c0768af91a4017ba63d0fbadf6c66d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688714855805
+status: 1
+tags: []
+user_id: sairam
